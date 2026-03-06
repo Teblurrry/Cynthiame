@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cynthia or Xu Kexin</h1>
+<h1 align="center">Hi 👋, I'm Cynthia </h1>
 <h3 align="center">A passionate coding and programming learner</h3>
 
 - <p>🌱 I am a student who studied in English Language but get a strong passion for coding and programming.</p>
